@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+original data
+124 56 7 89 3 
+ Sorted data
+=======
+original data
+124 56 7 89 3 
+ Sorted data
+>>>>>>> bcc2c6c010ae6b654bc28992ded3b7127f87e6b4
+3 7 56 89 124 

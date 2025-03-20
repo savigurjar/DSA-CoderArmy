@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+Original data:
+7 4 9 2 3 
+Sorted array:
+=======
+Original data:
+7 4 9 2 3 
+Sorted array:
+>>>>>>> bcc2c6c010ae6b654bc28992ded3b7127f87e6b4
+2 3 4 7 9 
